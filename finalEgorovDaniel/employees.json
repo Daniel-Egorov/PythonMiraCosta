@@ -1,0 +1,32 @@
+{
+    "aoeu": {
+        "firstname": "Daniel",
+        "lastname": "Egorov",
+        "empID": "aoeu",
+        "empType": "hourly",
+        "classes": [
+            "Math",
+            "History",
+            "English",
+            "Art"
+        ],
+        "hourWage": 15.78,
+        "monthlyHours": 200.0,
+        "paycheck": 3156.0
+    },
+    "chlt": {
+        "firstname": "Andrew",
+        "lastname": "italian",
+        "empID": "chlt",
+        "empType": "hourly",
+        "classes": [
+            "Spanish",
+            "Psychology",
+            "history",
+            "english"
+        ],
+        "hourWage": 16.78,
+        "monthlyHours": 160.0,
+        "paycheck": 2684.8
+    }
+}

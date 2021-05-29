@@ -1,0 +1,1 @@
+Automated spell checkers are used to analyze documents and locate words that might be misspelled.  These programs work by comparing each word in the document to a large dictionary (non-Python sense) of words.  If the word is not found in the dictionary, it is flagged as potentially incorrect. 

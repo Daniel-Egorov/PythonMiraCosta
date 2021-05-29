@@ -1,0 +1,17 @@
+{
+    "danielegorov": {
+        "pin": "1234",
+        "checking": 19.55,
+        "savings": 213.79
+    },
+    "johnsmith": {
+        "pin": "5678",
+        "checking": 74.59,
+        "savings": 0.03
+    },
+    "awesomedude12": {
+        "pin": "1212",
+        "checking": 1212.12,
+        "savings": 121212.12
+    }
+}
